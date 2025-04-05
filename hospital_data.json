@@ -1,0 +1,8 @@
+[
+    { "name": "City Hospital", "lat": 26.9124, "lon": 75.7873 },
+    { "name": "Metro Hospital", "lat": 26.9150, "lon": 75.8000 },
+    { "name": "Government Hospital", "lat": 26.9050, "lon": 75.7800 },
+    { "name": "Heart Care Center", "lat": 26.9180, "lon": 75.7950 },
+    { "name": "Children's Hospital", "lat": 26.9200, "lon": 75.7990 }
+  ]
+  
